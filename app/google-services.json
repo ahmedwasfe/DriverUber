@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659932315674",
+    "firebase_url": "https://uber-d708b.firebaseio.com",
+    "project_id": "uber-d708b",
+    "storage_bucket": "uber-d708b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659932315674:android:05c4a1721693f6ade451a3",
+        "android_client_info": {
+          "package_name": "com.oceanforit.driveruber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659932315674-hec12848d358ebm8719o386oplhood84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuf0c__kKghsiUp4yuewKmmaDLjTfY10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659932315674-hec12848d358ebm8719o386oplhood84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
